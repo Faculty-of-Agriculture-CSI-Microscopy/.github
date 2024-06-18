@@ -71,9 +71,15 @@ Welcome to the **Faculty of Agriculture CSI Microscopy** GitHub organization! Th
 ## Startup/Shutdown Guides
 Quick reference guides to help you efficiently start up and shut down your microscopy equipment:
 
-- [Microscope Startup Guide](https://example.com/microscope-startup): Step-by-step guide to starting up your microscope.
-- [Microscope Shutdown Procedure](https://example.com/microscope-shutdown): Instructions for properly shutting down your microscope.
-- [Laser Safety Protocol](https://example.com/laser-safety): Safety guidelines for working with lasers.
+- [EVOS M7000 widefiled](https://github.com/Faculty-of-Agriculture-CSI-Microscopy/EVOS-M7000-widefiled)
+- [Stellaris STED Confocal](https://github.com/Faculty-of-Agriculture-CSI-Microscopy/Stellaris-STED-Confocal)
+- [Skyscan 1272 MicroCT](https://example.com/laser-safety) - Work In Progress
+- [SP8 Confocal](https://example.com/laser-safety) - Work In Progress
+- [Luxendo MuVi SPIM Light Sheet](https://example.com/laser-safety) - Work In Progress
+- [IT-100 SEM](https://example.com/laser-safety) - Work In Progress
+- [JSM-7800 SEM](https://example.com/laser-safety) - Work In Progress
+- [IT-100 SEM](https://example.com/laser-safety) - Work In Progress
+- [Liquid Nitrogen](https://example.com/laser-safety) - Work In Progress
 
 ## Data Handling Tools
 
