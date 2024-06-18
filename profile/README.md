@@ -44,11 +44,6 @@ Welcome to the **Faculty of Agriculture CSI Microscopy** GitHub organization! Th
 - [Fiji Software](https://imagej.net/software/fiji/): Download and documentation for Fiji, an image processing package.
 - [Ilastik](https://www.ilastik.org/): User-friendly tool for image classification and segmentation.
 - [Icy](https://icy.bioimageanalysis.org/): An open-source software for bioimage analysis.
-- [Imaris](https://imaris.oxinst.com/): Software for 3D and 4D microscopy image visualization and analysis.
-- [Imaris Learning Resources](https://imaris.oxinst.com/learning/?businesses=bitplane&categories=24): Tutorials and resources for learning Imaris.
-- [Arivis](https://www.arivis.com/): Solutions for 3D and 4D image visualization and analysis.
-- [Aivia](https://www.aivia-software.com/news): Advanced image analysis software for scientific imaging.
-- [APEER](https://www.apeer.com/home/): A platform for microscopy image analysis and sharing. It is a web-based annotation tool for machine- and deep-learning that allows users to create training datasets by painting pixels and annotating multidimensional datasets, coding-free.
 - [QuPath](https://qupath.github.io/): Open source software for digital pathology and bioimage analysis.
 - [QuPath Documentation](https://qupath.readthedocs.io/en/stable/): Comprehensive documentation for using QuPath.
 - [Napari](https://napari.org/stable/): Multi-dimensional image viewer for Python.
@@ -56,6 +51,12 @@ Welcome to the **Faculty of Agriculture CSI Microscopy** GitHub organization! Th
 - [CLIJ](https://clij.github.io/): GPU-accelerated image processing in ImageJ/Fiji.
 - [clEsperanto](https://clesperanto.github.io/): Open-source platform for GPU-accelerated image processing.
 - [pyclesperanto Prototype](https://github.com/clEsperanto/pyclesperanto_prototype/): Python library for GPU-accelerated image processing.
+- [APEER](https://www.apeer.com/home/): A platform for microscopy image analysis and sharing. It is a web-based annotation tool for machine- and deep-learning that allows users to create training datasets by painting pixels and annotating multidimensional datasets, coding-free.
+- [Imaris](https://imaris.oxinst.com/): Software for 3D and 4D microscopy image visualization and analysis.
+- [Imaris Learning Resources](https://imaris.oxinst.com/learning/?businesses=bitplane&categories=24): Tutorials and resources for learning Imaris.
+- [Arivis](https://www.arivis.com/): Solutions for 3D and 4D image visualization and analysis.
+- [Aivia](https://www.aivia-software.com/news): Advanced image analysis software for scientific imaging.
+
 
 #### Tools and Calculators
 - [Nyquist Calculator](https://svi.nl/Nyquist-Calculator): A tool for calculating the Nyquist sampling rate for microscopy.
