@@ -73,7 +73,7 @@ Quick reference guides to help you efficiently start up and shut down your micro
 
 - [EVOS M7000 widefiled](https://github.com/Faculty-of-Agriculture-CSI-Microscopy/EVOS-M7000-widefiled)
 - [Stellaris STED Confocal](https://github.com/Faculty-of-Agriculture-CSI-Microscopy/Stellaris-STED-Confocal)
-- [Skyscan 1272 MicroCT](https://example.com/laser-safety) - Work In Progress
+- [Skyscan 1272 MicroCT](https://github.com/Faculty-of-Agriculture-CSI-Microscopy/Skyscan-1272-MicroCT)
 - [SP8 Confocal](https://example.com/laser-safety) - Work In Progress
 - [Luxendo MuVi SPIM Light Sheet](https://example.com/laser-safety) - Work In Progress
 - [IT-100 SEM](https://example.com/laser-safety) - Work In Progress
