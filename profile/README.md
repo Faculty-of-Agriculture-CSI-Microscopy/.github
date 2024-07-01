@@ -15,6 +15,7 @@ Welcome to the **Faculty of Agriculture CSI Microscopy** GitHub organization! Th
 
 ## Useful Links
 - [Project Initiation Form](https://forms.gle/igPJLiemJrT7ZCL56)
+- [Image Analysis Server Access - For HUJI Users](https://drive.google.com/file/d/118CQXZPBCW-mHCuB_DfPmw-stnbfy4up/view?usp=sharing)
 ### Learning
 
 #### Articles
